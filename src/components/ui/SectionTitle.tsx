@@ -30,3 +30,5 @@ const SectionTitle: React.FC<SectionTitleProps> = ({ title, subtitle }) => {
     </div>
   );
 };
+
+export default SectionTitle;

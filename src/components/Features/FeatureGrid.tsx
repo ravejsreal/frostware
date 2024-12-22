@@ -60,3 +60,6 @@ const FeatureGrid: React.FC = () => {
     </section>
   );
 };
+
+export default FeatureGrid;
+
