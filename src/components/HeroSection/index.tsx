@@ -2,7 +2,7 @@ import React from 'react';
 import { Snowflake, Download, Key } from 'lucide-react';
 import { motion } from 'framer-motion';
 import GlowingOrb from '../GlowingOrb';
-import Button from '../ui/Button';
+import { Button } from '../ui/Button';
 
 const HeroSection: React.FC = () => {
   return (
