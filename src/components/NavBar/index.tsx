@@ -86,7 +86,7 @@ const NavBar: React.FC = () => {
                 Download
               </NavLink>
               <motion.a
-                href="https://discord.gg/frostware"
+                href="https://discord.gg/getfrost"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-2 rounded-full bg-gradient-to-r from-blue-600 to-blue-400 text-white text-sm font-medium"
@@ -158,7 +158,7 @@ const NavBar: React.FC = () => {
                 </motion.a>
               ))}
               <motion.a
-                href="https://discord.gg/frostware"
+                href="https://discord.gg/getfrost"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="m-2 mt-3 px-4 py-3 rounded-xl bg-gradient-to-r from-blue-600 to-blue-400 text-white text-center font-medium"

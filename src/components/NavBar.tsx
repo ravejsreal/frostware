@@ -8,7 +8,7 @@ const NavBar: React.FC = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center space-x-2">
             <Snowflake className="w-6 h-6 text-blue-400" />
-            <span className="text-xl font-bold">Frost</span>
+            <span className="text-xl font-bold">Frostware</span>
           </div>
           <div className="hidden md:flex items-center space-x-8">
             <a href="#" className="text-gray-300 hover:text-white transition-colors">Home</a>
